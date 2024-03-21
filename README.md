@@ -1,7 +1,4 @@
 ### Hi there 👋
-##
-![JpSCabral's GitHub stats](https://github-readme-stats.vercel.app/api?username=JpSCabral&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpSCabral&layout=compact&theme=tokyonight)
-##
 
 
 
